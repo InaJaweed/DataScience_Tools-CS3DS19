@@ -25,7 +25,7 @@ The automobile company plans to expand into new markets and wants to implement t
 
 ## Repository Structure
 
-- `data/`: Contains the dataset `customer.csv`.
+- `data/`: Contains the dataset `customer.csv` and the `customer_clean_data.csv`.
 - `task1/ and task2+3/`: Includes KNIME workflows for data preprocessing, clustering, and cluster validity assessment.
 - `README.md`: This file explaining the project and repository contents.
 - `customer_description.txt` description of the data.
